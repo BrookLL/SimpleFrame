@@ -1,0 +1,5 @@
+include ':app'
+include 'Lib'
+project(':Lib').projectDir = new File('../Library/Lib')
+include 'UIKitLib'
+project(':UIKitLib').projectDir = new File('../UIKit/UIKitLib')

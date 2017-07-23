@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bussiness.iml" filepath="$PROJECT_DIR$/Bussiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Library/lib/Lib.iml" filepath="$PROJECT_DIR$/../Library/lib/Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UIKit/UIKitLib/UIKitLib.iml" filepath="$PROJECT_DIR$/../UIKit/UIKitLib/UIKitLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
