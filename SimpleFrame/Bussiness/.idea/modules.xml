@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bussiness.iml" filepath="$PROJECT_DIR$/Bussiness.iml" />
+      <module fileurl="file://E:\workspace\SimpleFrame\SimpleFrame\Bussiness\Bussiness.iml" filepath="E:\workspace\SimpleFrame\SimpleFrame\Bussiness\Bussiness.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Library/lib/Lib.iml" filepath="$PROJECT_DIR$/../Library/lib/Lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../UIKit/UIKitLib/UIKitLib.iml" filepath="$PROJECT_DIR$/../UIKit/UIKitLib/UIKitLib.iml" />
+      <module fileurl="file://E:\workspace\SimpleFrame\SimpleFrame\Library\lib\Lib.iml" filepath="E:\workspace\SimpleFrame\SimpleFrame\Library\lib\Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UIKit/uikitlib/UIKitLib.iml" filepath="$PROJECT_DIR$/../UIKit/uikitlib/UIKitLib.iml" />
+      <module fileurl="file://E:\workspace\SimpleFrame\SimpleFrame\UIKit\UIKitLib\UIKitLib.iml" filepath="E:\workspace\SimpleFrame\SimpleFrame\UIKit\UIKitLib\UIKitLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\workspace\SimpleFrame\SimpleFrame\Bussiness\app\app.iml" filepath="E:\workspace\SimpleFrame\SimpleFrame\Bussiness\app\app.iml" />
     </modules>
   </component>
 </project>
